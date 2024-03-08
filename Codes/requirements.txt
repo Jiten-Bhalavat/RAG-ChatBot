@@ -1,0 +1,11 @@
+openai
+llama_index 
+pypdf 
+sentence-transformers 
+transformers 
+accelerate 
+bitsandbytes
+llama-index-embeddings-huggingface
+streamlit
+langchain
+streamlit_chat

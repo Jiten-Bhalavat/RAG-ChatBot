@@ -1,0 +1,5 @@
+Task:
+
+hybrid searching 
+using resume data in both models
+Llama Phrase
